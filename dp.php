@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root"; // Replace with your DB username
 $password = "";     // Replace with your DB password
-$dbname = "hotel_management";
+$dbname = "hotel";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
